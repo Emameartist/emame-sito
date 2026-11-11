@@ -1,0 +1,18 @@
+EMAME — SITO WEB
+
+Email inserita: emameartist@gmail.com
+Canali social previsti: Instagram, Facebook, TikTok, YouTube e Spotify.
+I link diretti ai profili social restano da aggiungere: occorrono gli URL o gli @username ufficiali.
+
+PUBBLICAZIONE GRATUITA CON GITHUB PAGES
+1. Vai su https://github.com e crea un account gratuito.
+2. Premi il + in alto a destra > New repository.
+3. Nome: emame-sito. Seleziona Public e crea il repository.
+4. Nel repository scegli Add file > Upload files.
+5. Carica index.html e style.css nella cartella principale e premi Commit changes.
+6. Vai in Settings > Pages.
+7. In Build and deployment seleziona Deploy from a branch.
+8. Scegli branch main e cartella /(root), poi Save.
+9. Attendi la pubblicazione: l'indirizzo apparirà nella sezione Pages, normalmente https://TUONOME.github.io/emame-sito/
+
+Il sito è statico e non richiede database o abbonamento. L'indirizzo GitHub Pages è gratuito; un dominio personalizzato può avere un costo.
